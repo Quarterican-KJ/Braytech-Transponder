@@ -1,0 +1,45 @@
+dependencies: \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/node_modules/react-native/React/CxxBridge/NSDataBigString.mm \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Target\ Support\ Files/React-Core/React-Core-prefix.pch \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/node_modules/react-native/React/CxxBridge/NSDataBigString.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Headers/Public/React-cxxreact/cxxreact/JSBigString.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Folly/folly/Exception.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Folly/folly/Conv.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Headers/Public/DoubleConversion/double-conversion/double-conversion.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Headers/Public/DoubleConversion/double-conversion/utils.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Folly/folly/Demangle.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Folly/folly/FBString.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Folly/folly/Portability.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Folly/folly/CPortability.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Folly/folly/Traits.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Folly/folly/hash/Hash.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Folly/folly/Utility.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Folly/folly/functional/ApplyTuple.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Folly/folly/functional/Invoke.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Folly/folly/Preprocessor.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Folly/folly/hash/SpookyHashV1.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Folly/folly/hash/SpookyHashV2.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Folly/folly/lang/Bits.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Folly/folly/ConstexprMath.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Folly/folly/lang/Assume.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Folly/folly/portability/Builtins.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Folly/folly/memory/Malloc.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Folly/folly/memory/detail/MallocImpl.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Folly/folly/Expected.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Folly/folly/Likely.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Folly/folly/Optional.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Folly/folly/Unit.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Folly/folly/lang/ColdClass.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Folly/folly/Range.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Folly/folly/portability/Constexpr.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Folly/folly/portability/String.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Folly/folly/CpuId.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Folly/folly/detail/RangeCommon.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Headers/Public/glog/glog/logging.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Headers/Public/glog/glog/log_severity.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Headers/Public/glog/glog/vlog_is_on.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Folly/folly/detail/RangeSse42.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Folly/folly/portability/Math.h

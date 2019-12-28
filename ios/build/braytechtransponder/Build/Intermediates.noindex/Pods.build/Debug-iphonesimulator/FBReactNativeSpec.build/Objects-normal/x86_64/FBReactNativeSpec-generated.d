@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/node_modules/react-native/Libraries/FBReactNativeSpec/FBReactNativeSpec/FBReactNativeSpec-generated.mm \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Target\ Support\ Files/FBReactNativeSpec/FBReactNativeSpec-prefix.pch \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/node_modules/react-native/Libraries/FBReactNativeSpec/FBReactNativeSpec/FBReactNativeSpec.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Headers/Public/RCTRequired/RCTRequired/RCTRequired.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Headers/Public/RCTTypeSafety/RCTTypeSafety/RCTConvertHelpers.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyVector.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyIterator.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Folly/folly/Optional.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Folly/folly/Portability.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Folly/folly/CPortability.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Folly/folly/Traits.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Folly/folly/Utility.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Headers/Public/RCTTypeSafety/RCTTypeSafety/RCTTypedModuleConstants.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Headers/Public/React-Core/React/RCTCxxConvert.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Headers/Public/React-Core/React/RCTManagedPointer.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Headers/Public/ReactCommon/ReactCommon/RCTTurboModule.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Headers/Public/React-Core/React/RCTModuleMethod.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Headers/Public/React-Core/React/RCTBridgeMethod.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Headers/Public/React-Core/React/RCTNullability.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Headers/Public/ReactCommon/ReactCommon/JSCallInvoker.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Headers/Public/ReactCommon/ReactCommon/TurboModule.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Headers/Public/React-jsi/jsi/jsi.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Headers/Public/React-jsi/jsi/jsi-inl.h \
+  /Users/steven/Documents/Sites/Personal/braytech-transponder/ios/Pods/Headers/Public/React-cxxreact/cxxreact/MessageQueueThread.h
